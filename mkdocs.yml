@@ -1,9 +1,10 @@
-site_name: "BigCommerce Theme SarahMarket - User Guide"
+site_name: "BigCommerce Theme Materient Smart Watches - User Guide"
 pages:
 - Home: index.md
 - Install the theme: installation.md
 - Quick Start Guide: quickstart.md
 - Customization: customization.md
+- Block Sections: sections.md
 - Theme Settings: settings.md
 - Help & Support: support.md
 theme: readthedocs

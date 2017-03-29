@@ -1,2 +1,2 @@
-# bc-sarahmarket-docs
-Documentation for the BigCommerce Theme SarahMarket by tvlgiao
+# bc-materientsmartwatches-docs
+Documentation for the BigCommerce Theme Materient Smart Watches by tvlgiao

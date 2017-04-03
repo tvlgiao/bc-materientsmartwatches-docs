@@ -1,6 +1,6 @@
 # User Guide - BigCommerce Theme Materient Smart Watches
 
-Theme Version: 0.1.0 (2017-03-23)
+Theme Version: 1.0.0 (2017-04-04)
 
 Theme designed and developed by [papathemes](http://papathemes.com) 
 
